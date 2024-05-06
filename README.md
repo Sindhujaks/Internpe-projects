@@ -8,9 +8,8 @@ This repository contains a collection of web development projects completed duri
 2. [Usage](#usage)
 3. [Features](#features)
 4. [Technologies Used](#technologies-used)
-5. [Screenshots](#screenshots)
-6. [Contributing](#contributing)
-7. [License](#license)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Installation
 To run these projects locally, follow these steps:
@@ -53,9 +52,6 @@ Each project has its own usage instructions, which can be found in the respectiv
 - React.js *(for some projects)*
 - Bootstrap *(for styling)*
 
-## Screenshots
-[Include screenshots or a demo video of each project here.]
-
 ## Contributing
 Contributions to these projects are welcome! If you'd like to contribute, please follow the guidelines outlined in the CONTRIBUTING.md file in the repository.
 
@@ -63,4 +59,7 @@ Contributions to these projects are welcome! If you'd like to contribute, please
 This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
-[Give credit to any resources, tutorials, or libraries used in the projects.]
+## Credits
+- **InternPE**: Provided the opportunity and guidance during the internship.
+- **YouTube**: Various tutorials and resources used for learning and development.
+
